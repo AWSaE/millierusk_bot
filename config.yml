@@ -1,21 +1,21 @@
-API_ID: 
-API_HASH: 
-BOT_TOKEN: 
+API_ID: 11081592
+API_HASH: 6bf0e39b43537f603e4cfdcb4f4a964c
+BOT_TOKEN: 7274230472:AAGZVd0LSpkWBge7pha53S-yP3HJCOtQ8y0
 
 
-MONGO_URL: 
-REDIS_URI:
-REDIS_PORT:
-REDIS_PASS:
+MONGO_URL: mongodb+srv://root:awsae@cluster0.0kuppqh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+REDIS_URI: redis-14093.c83.us-east-1-2.ec2.redns.redis-cloud.com
+REDIS_PORT: 14093
+REDIS_PASS: 4YCNLPtJqMi3aWRuJhKMDRKDLO47vJRu
 
-SESSION_API_ID: 
-SESSION_API_HASH: 
-SESSION_STRING: 
+SESSION_API_ID: 11081592
+SESSION_API_HASH: 6bf0e39b43537f603e4cfdcb4f4a964c
+SESSION_STRING: 1BVtsOGkBuxQvhUmbj2p8bz1NOUIgwarFRjyFqOx97qERfTX4eaCUoGYd_vzp85JbefaNWYrDoAXSwrfOTcXyw8adTZ2O0gGRhl55W4wy9KL78dzDgkk8ZpaoNnXVou1zbbXQKzPr5IUqHkD5NQkQVsyMJVAM0w6p8nGwmc1Hq_g-fVRilPL_7rY3LVWmtkrwdIl0mGsBW6NYkLx8zS267q7trTQz6zzn_jkghktMiEM-mEX1cVUH0MrsA8G0uMmSWLePOMKfNUoBaETjPJ1oodLqs3CcYvo4QwYCEnU9OV2Xeqm245yElZFVkUGnVk0CMju-GimiuVHy-dUrZOUmhR_4QQw_b04=
 
 ADMINS: 
-  - 1317173146
+  - 1498672821
 
-OWNER: 1317173146
+OWNER: 1498672821
 
 BOT_PIC: https://te.legra.ph/file/a44cc6ec55eeafec0c558.jpg
 OWNER_PIC: https://te.legra.ph/file/280c6f1a2fbf10caf0822.jpg
@@ -23,7 +23,7 @@ OWNER_PIC: https://te.legra.ph/file/280c6f1a2fbf10caf0822.jpg
 
 SUPPORT_CHAT: roldexversechats 
 # LOG_CHAT: 
-LOG_CHAT: 
+LOG_CHAT: -4287025349
 
 
 
